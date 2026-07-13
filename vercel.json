@@ -1,9 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/api/analyze",
-      "destination": "/api/analyze",
-      "methods": ["POST", "GET"]
+      "source": "/api/(.*)",
+      "destination": "/api/$1"
     },
     {
       "source": "/(.*)",
