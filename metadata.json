@@ -1,0 +1,6 @@
+{
+  "name": "SME Product and Service Design Consultant",
+  "description": "یک ابزار ارزیابی و مشاوره تخصصی طراحی محصول و خدمات برای کسب‌وکارهای کوچک و متوسط (SME) همراه با گزارش تشخیص جامع و راهکارهای اجرایی.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
