@@ -180,7 +180,7 @@ https://wa.me/989120486852`;
                 Beyond Delight
               </span>
             </div>
-            <h1 className="text-3xl sm:text-4xl font-extrabold text-slate-900 tracking-tight mt-8">سنجش بلوغ طراحی خدمات</h1>
+            <h1 className="text-3xl sm:text-4xl font-extrabold text-slate-900 tracking-tight mt-8">The McKinsey 7S Framework</h1>
             <p className="text-slate-500 leading-relaxed text-lg max-w-xl mx-auto">
               با پاسخ به ۱۰ سوال کلیدی، وضعیت فعلی سازمان خود را تحلیل کنید و یک گزارش اختصاصی و راهنمای عملی برای بهبود عملکرد دریافت نمایید.
             </p>
