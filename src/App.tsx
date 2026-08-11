@@ -176,7 +176,7 @@ https://wa.me/989120486852`;
         {step === 'splash' && (
           <div className="space-y-8 text-center py-6">
             <div className="flex justify-center mb-4">
-              <span className="text-4xl sm:text-5xl font-black tracking-tighter text-black">
+              <span className="text-4xl sm:text-5xl font-black tracking-tighter">
                 Beyond Delight
               </span>
             </div>
