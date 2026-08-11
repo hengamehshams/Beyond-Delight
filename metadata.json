@@ -1,6 +1,0 @@
-{
-  "name": "McKinsey 7S Diagnostic Tool",
-  "description": "An interactive business diagnostic tool based on the McKinsey 7S framework.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
