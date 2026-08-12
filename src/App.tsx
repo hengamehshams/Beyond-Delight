@@ -378,7 +378,7 @@ https://wa.me/989120486852`;
         {step === 'loading' && (
           <div className="text-center py-20 flex flex-col items-center justify-center space-y-6">
             <Loader2 className="animate-spin text-[#008CFF]" size={48} strokeWidth={1.5} />
-            <div className="text-slate-600 font-medium text-lg">در حال ارزیابی وضعیت سازمان شما...</div>
+            <div className="text-slate-600 font-medium text-lg">در حال ارزیابی وضعیت سازمان...</div>
           </div>
         )}
         {step === 'report' && report && (
